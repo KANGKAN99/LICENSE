@@ -1,2 +1,3 @@
-[# LICENSE
-](http://localhost:3000/)this is my project
+[# LICENSE]
+http://localhost:3000/
+this is my project
